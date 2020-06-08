@@ -1,0 +1,93 @@
+/* .calculator{
+    margin: 0px;
+    padding: 0px;
+}
+.button{
+    width: 75px;
+    height: 50px;
+    font-size: 25px;
+    margin: 2px;
+    cursor: pointer;
+    border: none;
+}
+.textview {
+     width: 305px;
+     margin: 5px;
+     font-size: 25px;
+     padding: 5px;
+     border: none;
+      background-color: transparent;
+} */
+.keys
+{
+position:relative;
+top:15px;
+}
+.button
+{
+width:40px;
+height:30px;
+border:none;
+border-radius:8px;
+margin-left:17px;
+cursor:pointer;
+border-top:2px solid transparent;
+}
+.button.gray
+{
+color:blue;
+background-color:;
+border-bottom:yell px solid;
+border-top:2px white solid;
+}
+.button.pink
+{
+color:blue;
+background-color:yellowgreen;
+border-bottom:rgb(0, 0, 0) 2px solid;
+}
+.button.black
+{
+color:blue;
+background-color:303030;
+border-bottom:rgb(0, 0, 0) 2px solid;
+border-top:2px 303030 solid;
+}
+.button.orange
+{
+color:blue;
+background-color:FF9933;
+border-bottom:whitesmoke 2px solid;
+border-top:2px FF9933 solid;
+}
+.gray:active
+{
+border-top:whitesmoke 2px solid;
+border-bottom:2px #6f6f6f solid;
+}
+.pink:active
+{
+border-top:  white 2px solid;
+border-bottom:#ff4561 2px solid;
+}
+.black:active
+{
+border-top:rgb(63, 255, 213) 2px solid;
+border-bottom:rgb(63, 255, 213) 2px solid;
+}
+.orange:active
+{
+border-top:white 2px solid;
+border-bottom:FF9933 2px solid;
+}
+p
+{
+line-height:10px;
+}
+body{
+    background-color:blue;
+    padding-left: 15%;
+    padding-top: 9%;
+    
+
+}
